@@ -34,7 +34,7 @@
 
     <application
         android:allowTaskReparenting="true"
-        android:icon="@drawable/app_music"
+        android:icon="@drawable/ic_launcher"
         android:label="@string/musicbrowserlabel"
         android:taskAffinity="android.task.music" >
         <meta-data
