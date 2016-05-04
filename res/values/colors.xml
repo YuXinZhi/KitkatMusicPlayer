@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2009 The Android Open Source Project
+<!--
+     Copyright (C) 2009 The Android Open Source Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -15,9 +16,9 @@
 -->
 
 <resources>
-    <color name="appwidget_text">#ffffffff</color>
 
+    <color name="appwidget_text">#ffffffff</color>
     <color name="transparent">#00000000</color>
+    <color name="main_dark">#FF535353</color>
 
 </resources>
-
